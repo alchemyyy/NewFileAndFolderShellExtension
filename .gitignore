@@ -1,3 +1,4 @@
+*.def
 *.dll
 *.lib
 *.obj
