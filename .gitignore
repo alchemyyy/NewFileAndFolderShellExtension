@@ -1,4 +1,5 @@
 *.def
 *.dll
+*.exp
 *.lib
 *.obj
